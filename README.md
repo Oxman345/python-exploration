@@ -44,7 +44,7 @@ Source:
 https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites
 - Use `.py` for python file type
 https://www.w3schools.com/python/python_syntax.asp
-- No need to use `let` or `const` for variables
+- Variables such as `let` or `const` aren't needed in python
 - `print` is the equivalent to `console.log()` in js
 
 ## Basic syntax
@@ -52,6 +52,28 @@ https://www.w3schools.com/python/python_syntax.asp
 Hello World is a great starting point, but you'll need to sort out more language features to get a bigger application up and running. Find a language guide to help you with basic syntax for functions, conditionals, and loops.
 
 Take some time to look into how to buff it up a bit by writing a function. Can you get it to say hello to a person by name using a function parameter? 
+
+Source:
+https://www.w3schools.com/python/python_functions.asp
+- `#` is used to signify a comment
+- `def` is used to define a function
+https://www.w3schools.com/python/python_conditions.asp
+- `if` is used to define a conditional
+    - a = 33
+    - b = 200
+    - if b > a:
+    - print("b is greater than a")
+    - notice a colon is used instead of a curly brace
+- `elif` is the equivalent of `else if` in js
+- `else` is the same as js
+- Equals: a == b
+- Not Equals: a != b
+- Less than: a < b
+- Less than or equal to: a <= b
+- Greater than: a > b
+- Greater than or equal to: a >= b
+https://www.w3schools.com/python/python_for_loops.asp
+-3
 
 
 ## Programming
